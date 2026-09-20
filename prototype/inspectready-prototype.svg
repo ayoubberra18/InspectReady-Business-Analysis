@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#1d1d1f}.small{font-size:16px;fill:#666}.label{font-size:14px;font-weight:700;letter-spacing:2px;fill:#ef3b22}.h1{font-size:42px;font-weight:800}.h2{font-size:24px;font-weight:700}.body{font-size:18px}.num{font-size:16px;font-weight:700;fill:#ef3b22}.card{fill:#fff;stroke:#d8d8d8;stroke-width:1.5}.muted{fill:#f6f3f2}.accent{fill:#ef3b22}.dark{fill:#222}
+</style>
+<rect width="1200" height="760" fill="#f7f5f4"/>
+<text x="70" y="65" class="label">PROTOTYPE · MOBILE</text>
+<text x="70" y="115" class="h1">InspectReady</text>
+<line x1="70" y1="135" x2="430" y2="135" stroke="#555"/>
+<text x="70" y="175" class="body">AI pre-inspection for general contractors.</text>
+<text x="70" y="203" class="small">Capture the work, check it against code,</text>
+<text x="70" y="227" class="small">fix what fails — before the inspector arrives.</text>
+<line x1="70" y1="270" x2="430" y2="270" stroke="#bbb"/>
+<text x="75" y="310" class="num">1</text><text x="115" y="310" class="body">Pick project &amp; inspection type</text>
+<text x="75" y="355" class="small">2</text><text x="115" y="355" class="body">Choose phone camera or drone</text>
+<text x="75" y="400" class="small">3</text><text x="115" y="400" class="body">AI checks capture against code</text>
+<text x="75" y="445" class="small">4</text><text x="115" y="445" class="body">Review findings, severity &amp; fixes</text>
+<text x="75" y="490" class="small">5</text><text x="115" y="490" class="body">Low confidence → private inspector</text>
+<text x="75" y="535" class="small">6</text><text x="115" y="535" class="body">Readiness score &amp; report</text>
+<rect x="70" y="585" width="360" height="100" fill="#fff7f5" stroke="#ead9d5"/>
+<text x="90" y="615" class="small">InspectReady gives an indicative readiness assessment.</text>
+<text x="90" y="640" class="small">It does not replace, perform, or guarantee the outcome</text>
+<text x="90" y="665" class="small">of a municipal inspection.</text>
+
+<rect x="535" y="38" width="390" height="690" rx="55" fill="#fff" stroke="#c9c9c9" stroke-width="2"/>
+<rect x="650" y="55" width="160" height="38" rx="20" fill="#111"/>
+<text x="565" y="120" class="small">PRE-INSPECTION</text>
+<text x="565" y="150" class="h2">New check</text>
+<rect x="865" y="118" width="38" height="38" class="accent"/><text x="876" y="144" font-size="16" font-weight="700" fill="#fff">IR</text>
+<line x1="550" y1="172" x2="910" y2="172" stroke="#bbb"/>
+<text x="565" y="215" class="h2">Hi, Marco</text>
+<text x="565" y="243" class="small">Let's check the job against code before the city shows up.</text>
+<text x="565" y="287" class="small">PROJECT</text>
+<rect x="565" y="303" width="330" height="55" class="card"/>
+<text x="590" y="337" class="body" font-weight="700">123 Main St.</text>
+<text x="565" y="400" class="small">INSPECTION TYPE</text>
+<rect x="565" y="418" width="110" height="72" class="dark"/><text x="590" y="460" font-size="18" font-weight="700" fill="#fff">Framing</text>
+<rect x="675" y="418" width="110" height="72" class="card"/><text x="695" y="460" class="body" font-weight="700">Electrical</text>
+<rect x="785" y="418" width="110" height="72" class="card"/><text x="808" y="460" class="body" font-weight="700">Plumbing</text>
+<text x="565" y="535" class="small">HOW YOU'LL CAPTURE</text>
+<rect x="565" y="553" width="150" height="95" class="card"/><text x="585" y="585" class="body" font-weight="700">Phone camera</text><text x="585" y="615" class="small">Walk the site,</text><text x="585" y="637" class="small">shoot photo + video.</text>
+<rect x="735" y="553" width="160" height="95" fill="#fff8f6" stroke="#ef3b22" stroke-width="2"/><text x="755" y="585" class="body" font-weight="700">Drone scan</text><text x="755" y="615" class="small">Roof, exterior,</text><text x="755" y="637" class="small">hard-to-reach areas.</text>
+<rect x="565" y="670" width="330" height="48" class="accent"/><text x="585" y="701" font-size="17" font-weight="700" fill="#fff">Start framing pre-inspection →</text>
+
+<text x="975" y="140" class="label">CORE VALUE</text>
+<text x="975" y="182" class="h2">Find issues earlier.</text>
+<text x="975" y="222" class="body">Fix before failure.</text>
+<text x="975" y="262" class="body">Schedule with confidence.</text>
+<line x1="975" y1="295" x2="1140" y2="295" stroke="#bbb"/>
+<text x="975" y="335" class="small">Phone + drone capture</text>
+<text x="975" y="370" class="small">AI-assisted findings</text>
+<text x="975" y="405" class="small">Human escalation</text>
+<text x="975" y="440" class="small">Readiness report</text>
+</svg>
