@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#18202b}.title{font-size:38px;font-weight:800}.n{font-size:26px;font-weight:800}.h{font-size:21px;font-weight:700}.b{font-size:16px;fill:#4d5968}.box{fill:#fff;stroke:#b8b8b8;stroke-width:2}</style>
+<rect width="1200" height="850" fill="#fbfaf6"/><text x="55" y="60" class="title">Crazy 8's — Pre-Inspection Solutions</text>
+<g transform="translate(40,95)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">1</text><text x="58" y="38" class="h">AI Phone Inspector</text><rect x="85" y="75" width="100" height="170" rx="15" fill="#f6f6f6" stroke="#333"/><circle cx="135" cy="225" r="8" fill="#333"/><text x="20" y="285" class="b">Photos/video → AI code check</text>
+</g>
+<g transform="translate(325,95)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">2</text><text x="58" y="38" class="h">Inspector Marketplace</text><rect x="55" y="75" width="160" height="170" rx="12" fill="#f6f6f6" stroke="#333"/><circle cx="85" cy="115" r="16" fill="none" stroke="#333"/><circle cx="85" cy="160" r="16" fill="none" stroke="#333"/><circle cx="85" cy="205" r="16" fill="none" stroke="#333"/><text x="115" y="120" class="b">★★★★★</text><text x="115" y="165" class="b">★★★★★</text><text x="115" y="210" class="b">★★★★☆</text><text x="20" y="285" class="b">Book a private pre-inspector</text>
+</g>
+<g transform="translate(610,95)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">3</text><text x="58" y="38" class="h">Live Video Review</text><rect x="60" y="75" width="150" height="170" rx="15" fill="#f6f6f6" stroke="#333"/><rect x="78" y="95" width="115" height="60" fill="#dfe8ef"/><rect x="78" y="170" width="115" height="50" fill="#fff" stroke="#999"/><text x="20" y="285" class="b">Remote inspector guidance</text>
+</g>
+<g transform="translate(895,95)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">4</text><text x="58" y="38" class="h">Smart Checklist</text><rect x="55" y="80" width="160" height="160" fill="#fff" stroke="#333"/><text x="75" y="112" class="b">☑ GFCI</text><text x="75" y="145" class="b">☑ Box fill</text><text x="75" y="178" class="b">☐ AFCI</text><text x="75" y="211" class="b">☑ Bonding</text><text x="20" y="285" class="b">City + trade + inspection type</text>
+</g>
+<g transform="translate(40,435)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">5</text><text x="58" y="38" class="h">Drone + AI</text><path d="M90 130 h90 M110 110 l50 40 M160 110 l-50 40" stroke="#333" stroke-width="4"/><circle cx="90" cy="130" r="18" fill="none" stroke="#333"/><circle cx="180" cy="130" r="18" fill="none" stroke="#333"/><path d="M65 225 L135 170 L205 225 Z" fill="none" stroke="#333" stroke-width="3"/><text x="20" y="285" class="b">Roofs + hard-to-reach areas</text>
+</g>
+<g transform="translate(325,435)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">6</text><text x="58" y="38" class="h">AI + Human Review</text><rect x="30" y="105" width="70" height="80" fill="#eef2f4" stroke="#333"/><text x="55" y="150" class="h">AI</text><text x="110" y="150" class="h">→</text><rect x="150" y="105" width="90" height="80" fill="#eef2f4" stroke="#333"/><text x="162" y="140" class="b">Human</text><text x="162" y="162" class="b">review</text><text x="20" y="285" class="b">Escalate uncertain cases</text>
+</g>
+<g transform="translate(610,435)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">7</text><text x="58" y="38" class="h">AR Inspection Guide</text><rect x="60" y="78" width="150" height="170" rx="15" fill="#f6f6f6" stroke="#333"/><rect x="80" y="105" width="110" height="95" fill="#fff" stroke="#999"/><text x="90" y="140" font-size="28" fill="#e44">✕</text><text x="145" y="185" font-size="28" fill="#2a7">✓</text><text x="20" y="285" class="b">Red/green live guidance</text>
+</g>
+<g transform="translate(895,435)">
+<rect class="box" width="270" height="320"/><text x="20" y="38" class="n">8</text><text x="58" y="38" class="h">Readiness Score</text><circle cx="135" cy="150" r="80" fill="none" stroke="#dde3e8" stroke-width="18"/><path d="M135 70 A80 80 0 1 1 70 198" fill="none" stroke="#74bfd2" stroke-width="18"/><text x="102" y="160" font-size="38" font-weight="700">82</text><text x="20" y="285" class="b">Know what to fix before city visit</text>
+</g>
+</svg>
