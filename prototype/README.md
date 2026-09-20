@@ -2,7 +2,7 @@
 
 The prototype demonstrates the core contractor workflow rather than a production-ready application.
 
-![InspectReady prototype](inspectready-prototype.png)
+![InspectReady prototype](inspectready-prototype.svg)
 
 ## Core flow
 
