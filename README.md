@@ -6,7 +6,7 @@ InspectReady is a contractor-focused **pre-inspection readiness concept** develo
 
 The project explores a practical construction workflow problem: contractors may discover code-related issues only when the municipal inspector arrives, creating rework, repeat visits, idle labor, and project delays.
 
-![InspectReady prototype](prototype/inspectready-prototype.png)
+![InspectReady prototype](prototype/inspectready-prototype.svg)
 
 ## Project goal
 
@@ -60,7 +60,7 @@ The qualitative research used contractor/forum discussions to identify recurring
 
 These are **directional findings from a qualitative sample, not national survey statistics**.
 
-![Market validation](research/market-validation.png)
+![Market validation](research/market-validation.svg)
 
 ## Market sizing
 
@@ -117,20 +117,21 @@ InspectReady-Business-Analysis/
 ├── README.md
 ├── docs/
 │   ├── case-study.md
+│   ├── project-metadata.md
 │   └── project-process.md
 ├── ideation/
-│   ├── crazy-8s.png
-│   ├── solution-sketch.png
+│   ├── crazy-8s.svg
+│   ├── solution-sketch.svg
 │   └── README.md
 ├── presentation/
 │   └── final-pitch-deck.md
 ├── prototype/
-│   ├── inspectready-prototype.png
+│   ├── inspectready-prototype.svg
 │   └── README.md
 └── research/
     ├── competitive-landscape.md
     ├── market-sizing.md
-    ├── market-validation.png
+    ├── market-validation.svg
     └── problem-validation.md
 ```
 
