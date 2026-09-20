@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#2a3a4e}.title{font-size:42px;font-weight:800}.pct{font-size:46px;font-weight:700}.label{font-size:20px}.quote{font-size:20px;font-style:italic}.foot{font-size:20px;fill:#435268}</style>
+<rect width="1200" height="700" fill="#fbfaf7"/>
+<text x="35" y="70" class="title">Contractors are already experiencing the pain.</text>
+<g transform="translate(210,265)">
+<circle r="112" fill="none" stroke="#d9eef4" stroke-width="26"/>
+<circle r="112" fill="none" stroke="#70c3d9" stroke-width="26" stroke-dasharray="436 704" transform="rotate(-90)"/>
+<text text-anchor="middle" y="15" class="pct">62%</text>
+<text text-anchor="middle" y="160" class="label">Failed inspections</text>
+</g>
+<g transform="translate(600,265)">
+<circle r="112" fill="none" stroke="#d9eef4" stroke-width="26"/>
+<circle r="112" fill="none" stroke="#70c3d9" stroke-width="26" stroke-dasharray="380 704" transform="rotate(-90)"/>
+<text text-anchor="middle" y="15" class="pct">54%</text>
+<text text-anchor="middle" y="160" class="label">Timeline uncertainty</text>
+</g>
+<g transform="translate(990,265)">
+<circle r="112" fill="none" stroke="#d9eef4" stroke-width="26"/>
+<circle r="112" fill="none" stroke="#70c3d9" stroke-width="26" stroke-dasharray="324 704" transform="rotate(-90)"/>
+<text text-anchor="middle" y="15" class="pct">46%</text>
+<text text-anchor="middle" y="160" class="label">Code interpretation</text>
+</g>
+<line x1="35" y1="520" x2="35" y2="585" stroke="#70c3d9" stroke-width="4"/>
+<text x="60" y="552" class="quote">“It failed again as it measures 9 inches deep and should be 18 inches per the city.”</text>
+<text x="60" y="580" class="foot">— Contractor forum discussion</text>
+<text x="35" y="645" class="foot">TAM ~$12B, SAM ~$255M, SOM ~$2.5M (modeled estimates)</text>
+</svg>
