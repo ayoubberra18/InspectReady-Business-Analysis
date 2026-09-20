@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1d2530}.title{font-size:38px;font-weight:800}.h{font-size:24px;font-weight:700}.b{font-size:16px}.small{font-size:14px;fill:#616b78}.phone{fill:#fff;stroke:#202020;stroke-width:3}.card{fill:#f8f8f8;stroke:#b8b8b8}.accent{fill:#ef3b22}</style>
+<rect width="1400" height="850" fill="#fbfaf7"/><text x="420" y="55" class="title">InspectReady — Solution Sketch</text>
+<text x="75" y="110" class="h">1. Start Pre-Inspection</text><text x="530" y="110" class="h">2. AI Finds Issues</text><text x="1010" y="110" class="h">3. Readiness Report</text>
+<rect x="60" y="135" width="340" height="630" rx="45" class="phone"/><rect x="535" y="135" width="340" height="630" rx="45" class="phone"/><rect x="1010" y="135" width="340" height="630" rx="45" class="phone"/>
+<text x="85" y="190" class="small">PRE-INSPECTION</text><text x="85" y="225" class="h">Hi, Contractor!</text><text x="85" y="250" class="small">Let's make sure your job is ready.</text>
+<text x="85" y="295" class="small">PROJECT</text><rect x="85" y="310" width="290" height="55" class="card"/><text x="105" y="343" class="b" font-weight="700">123 Main St.</text>
+<text x="85" y="405" class="small">INSPECTION TYPE</text><rect x="85" y="420" width="90" height="60" fill="#222"/><text x="103" y="455" font-size="15" font-weight="700" fill="#fff">Framing</text><rect x="175" y="420" width="90" height="60" class="card"/><text x="186" y="455" class="small">Electrical</text><rect x="265" y="420" width="90" height="60" class="card"/><text x="280" y="455" class="small">Plumbing</text>
+<text x="85" y="525" class="small">CAPTURE METHOD</text><rect x="85" y="540" width="130" height="90" class="card"/><text x="103" y="575" class="b" font-weight="700">Phone Camera</text><rect x="230" y="540" width="130" height="90" fill="#fff8f6" stroke="#ef3b22"/><text x="255" y="575" class="b" font-weight="700">Drone Scan</text>
+<rect x="85" y="670" width="275" height="52" class="accent"/><text x="110" y="703" font-size="17" font-weight="700" fill="#fff">START PRE-INSPECTION →</text>
+
+<text x="565" y="195" class="h">Pre-Inspection</text><text x="565" y="225" class="small">Analyzing your site...</text><rect x="565" y="245" width="270" height="16" rx="8" fill="#ddd"/><rect x="565" y="245" width="205" height="16" rx="8" fill="#ef3b22"/>
+<rect x="560" y="295" width="290" height="110" class="card"/><text x="580" y="325" class="b" font-weight="700">⚠ GFCI Outlet Missing</text><text x="580" y="350" class="small">NEC 210.8(A)(1)</text><text x="580" y="375" class="small">Kitchen outlet may need GFCI protection.</text><text x="735" y="394" class="small">How to fix →</text>
+<rect x="560" y="420" width="290" height="110" class="card"/><text x="580" y="450" class="b" font-weight="700">⚠ Handrail Height</text><text x="580" y="475" class="small">IRC R311.7.8</text><text x="580" y="500" class="small">Check required height range.</text>
+<rect x="560" y="545" width="290" height="95" class="card"/><text x="580" y="575" class="b" font-weight="700">✓ Smoke Detector</text><text x="580" y="603" class="small">Appears compliant.</text>
+<rect x="560" y="665" width="290" height="55" fill="#fff8f6" stroke="#ef3b22"/><text x="580" y="697" class="b" font-weight="700">ASK PRIVATE INSPECTOR</text>
+
+<text x="1040" y="195" class="h">Inspection Readiness</text><circle cx="1180" cy="320" r="90" fill="none" stroke="#e4e7ea" stroke-width="20"/><path d="M1180 230 A90 90 0 1 1 1108 374" fill="none" stroke="#70c3d9" stroke-width="20"/><text x="1130" y="335" font-size="52" font-weight="700">94%</text><text x="1150" y="370" class="b">READY</text>
+<line x1="1045" y1="440" x2="1320" y2="440" stroke="#bbb"/>
+<text x="1050" y="480" class="b">✓ 38 Items Verified</text><text x="1050" y="520" class="b">⚠ 2 Issues Corrected</text><text x="1050" y="560" class="b">○ 1 Missing Evidence</text><text x="1050" y="600" class="b">✓ Human Review Completed</text>
+<rect x="1045" y="640" width="280" height="60" fill="#edf8f1" stroke="#8bbd9b"/><text x="1070" y="676" class="b" font-weight="700">Ready to schedule municipal inspection</text>
+<path d="M420 450 H510" stroke="#ef3b22" stroke-width="5"/><polygon points="510,450 490,438 490,462" fill="#ef3b22"/><path d="M895 450 H985" stroke="#ef3b22" stroke-width="5"/><polygon points="985,450 965,438 965,462" fill="#ef3b22"/>
+</svg>
