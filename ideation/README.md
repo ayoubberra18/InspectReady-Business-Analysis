@@ -15,10 +15,10 @@ The project used Crazy 8's to avoid jumping directly to one solution.
 
 ## Crazy 8's
 
-![Crazy 8's](crazy-8s.png)
+![Crazy 8's](crazy-8s.svg)
 
 ## Winning solution sketch
 
 The final concept combined field evidence capture, automated analysis, human escalation, and a readiness report.
 
-![Solution sketch](solution-sketch.png)
+![Solution sketch](solution-sketch.svg)
