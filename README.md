@@ -1,101 +1,132 @@
-# InspectReady
+# InspectReady — Business Analysis & Product Validation
 
 **Know before the inspector arrives.**
 
-InspectReady is a contractor-focused **pre-inspection readiness concept** developed during **Risk & Return: Turning Data Into Business Decisions**, a Build Project in **The Build Fellowship by Open Avenues Foundation**.
-
-The project explores a practical construction workflow problem: contractors may discover code-related issues only when the municipal inspector arrives, creating rework, repeat visits, idle labor, and project delays.
+InspectReady is a contractor-focused **pre-inspection readiness concept** developed during *Risk & Return: Turning Data Into Business Decisions*, a Build Project in **The Build Fellowship by Open Avenues Foundation**.
 
 ![InspectReady prototype](prototype/inspectready-prototype.svg)
 
-## Project goal
+## Executive Summary
 
-The goal was not simply to design an app. The project used a structured business-analysis process to determine whether the problem is meaningful, whether a solution is feasible, and whether the market could support a viable product.
+Contractors can finish a phase of work and still discover code-related or documentation issues only when the municipal inspector arrives. The result can be rework, repeat visits, idle labor, rescheduling, and downstream project delays.
 
-## What I worked on
+This project asks a business question before assuming the product should be built:
 
-- Problem discovery and problem framing
-- Primary-user definition
-- Qualitative customer research
-- Forum and contractor pain-point analysis
-- Competitor and alternative-solution research
+> **Can a pre-inspection readiness workflow reduce the cost and uncertainty contractors experience before municipal inspections?**
+
+The work covers problem framing, qualitative research, competitor analysis, TAM/SAM/SOM modeling, risk analysis, ideation, prototyping, and a final business recommendation.
+
+## My Role
+
+**Student Consultant — The Build Fellowship, Open Avenues Foundation**
+
+I worked across the full early-stage analysis cycle:
+
+- problem discovery and framing
+- primary-user definition
+- qualitative customer research
+- competitor and alternative-solution research
 - TAM / SAM / SOM market sizing
-- Risk and assumption analysis
+- risk and assumption analysis
 - Crazy 8's ideation
-- Solution sketching
-- Prototype development
-- Business-model hypotheses
-- Final recommendation and pitch
+- solution sketching
+- prototype development
+- business-model hypotheses
+- final recommendation and presentation
 
-## The problem
+## Problem
 
-General contractors can finish a phase of work without having a reliable way to know whether it is truly ready for the official municipal inspection. If an issue is discovered only during the inspection, the contractor may need to correct the work, bring crews back, schedule a reinspection, and delay downstream work.
+General contractors may complete work without a reliable way to determine whether the job is truly ready for an official municipal inspection.
 
-A simple question captures the problem:
+If the inspection identifies an issue, the contractor may need to:
+
+- correct completed work
+- bring crews back to the jobsite
+- schedule another inspection
+- delay dependent work
+- absorb additional labor and schedule cost
+
+The core user question is:
 
 > **Is my job actually ready for inspection?**
 
-## Proposed solution
+## Proposed Solution
 
-InspectReady adds a structured pre-inspection step before the municipal inspection.
+InspectReady introduces a structured pre-inspection workflow.
 
-**Core workflow:**
-
-1. Select project and inspection type.
-2. Capture evidence using a phone camera or optional drone scan.
+1. Select the project and inspection type.
+2. Capture evidence with a phone camera or optional drone scan.
 3. Review possible issues and missing evidence.
-4. Fix identified problems before the official inspection.
-5. Escalate uncertain cases to a human/private inspector when needed.
-6. Receive an inspection-readiness report.
+4. Correct identified problems before the official inspection.
+5. Escalate uncertain cases to a human/private inspector when appropriate.
+6. Produce an inspection-readiness report.
 
-The product is intended as an **inspection-readiness assistant**. It does not replace the authority of municipal inspectors or guarantee approval.
+The concept is an **inspection-readiness assistant**. It does not replace municipal authority and does not guarantee inspection approval.
 
-## Early validation
+## Research & Validation
 
-The qualitative research used contractor/forum discussions to identify recurring pain points. The project deck summarized the sample as:
+The qualitative research examined contractor and forum discussions for recurring pain points.
+
+Directional findings summarized in the project deck included:
 
 - **62%** — failed inspections, rework, or repeat inspection visits
 - **54%** — slow or unpredictable inspection timelines
 - **46%** — code-interpretation or inspector-expectation challenges
 
-These are **directional findings from a qualitative sample, not national survey statistics**.
+These percentages come from a **qualitative sample** and should not be interpreted as national survey statistics.
 
 ![Market validation](research/market-validation.svg)
 
-## Market sizing
+## Market Model
 
-The project used a modeled TAM / SAM / SOM framework to test whether the opportunity could support a business.
+A bottom-up TAM / SAM / SOM model was used to test whether the opportunity could support a viable business.
 
-- **TAM:** approximately **$12B** modeled annual opportunity
-- **SAM:** approximately **$255M**, using ~212K U.S. residential contractor establishments and assumed annual pricing
-- **SOM:** approximately **$2.5M**, using ~2,100 early customers and assumed pricing
+| Market | Modeled opportunity |
+|---|---:|
+| TAM | ~**$12B** annually |
+| SAM | ~**$255M** |
+| SOM | ~**$2.5M** |
 
-These are **modeled estimates** rather than audited market figures. Pricing and reachable customer counts require further primary validation.
+The SAM model used approximately **212K U.S. residential contractor establishments** and assumed annual pricing. The SOM used approximately **2,100 early customers** and assumed pricing.
 
-## Competitive landscape
+These are modeled estimates, not audited market figures. Pricing and reachable-customer assumptions require primary validation.
 
-The research reviewed several categories of existing solutions:
+## Competitive Landscape
 
-- Municipal systems: Accela, OpenGov
-- Construction management: Procore, Autodesk Construction Cloud
-- Inspection/checklist software: SafetyCulture
-- Emerging AI inspection tools: Specta, Infrava Inspect, Tradei Vision
-- Human/private inspection services
+The research reviewed several categories of alternatives:
 
-The opportunity explored in this project is a contractor-facing workflow that combines **field evidence capture, inspection-readiness analysis, optional drone capture, human escalation, and a final readiness report**.
+- **Municipal systems:** Accela, OpenGov
+- **Construction management:** Procore, Autodesk Construction Cloud
+- **Inspection/checklist software:** SafetyCulture
+- **Emerging AI inspection tools:** Specta, Infrava Inspect, Tradei Vision
+- **Human/private inspection services**
 
-## Business-model hypotheses
+The opportunity explored is a contractor-facing workflow combining **field evidence capture, readiness analysis, optional drone capture, human escalation, and a final readiness report**.
 
-The project considered several revenue options:
+## Business-Model Hypotheses
+
+The project considered:
 
 - SaaS subscription
-- Pay per pre-inspection
-- Private-inspector marketplace commission
-- Premium drone-inspection add-on
+- pay-per-pre-inspection
+- private-inspector marketplace commission
+- premium drone-inspection add-on
 
-These are hypotheses that still require willingness-to-pay testing.
+These remain hypotheses until willingness-to-pay testing is completed.
 
-## Next validation steps
+## Recommendation
+
+The current recommendation is **not to build the full product yet**.
+
+The next decision should be based on stronger primary evidence around:
+
+- frequency and cost of failed inspections
+- contractor willingness to pay
+- trust in AI-assisted findings
+- the best inspection category for an MVP
+- jurisdiction-specific code-data availability
+
+## Next Validation Steps
 
 1. Interview 10–15 general contractors.
 2. Interview building and private inspectors.
@@ -106,38 +137,27 @@ These are hypotheses that still require willingness-to-pay testing.
 7. Research jurisdiction-specific code-data access.
 8. Run a small real-world contractor pilot.
 
-## Project process
+## Project Deliverables
 
-See [`docs/project-process.md`](docs/project-process.md) for the complete workflow from problem discovery to final pitch.
+- **docs/case-study.md** — concise case study and recommendation
+- **docs/project-process.md** — end-to-end analysis process
+- **research/problem-validation.md** — problem research
+- **research/competitive-landscape.md** — competitor review
+- **research/market-sizing.md** — TAM / SAM / SOM model
+- **prototype/** — prototype assets
+- **ideation/** — Crazy 8's and solution sketches
+- **presentation/final-pitch-deck.md** — final pitch
 
-## Repository structure
+## Repository Structure
 
-```text
-InspectReady-Business-Analysis/
-├── README.md
-├── docs/
-│   ├── case-study.md
-│   ├── project-metadata.md
-│   └── project-process.md
-├── ideation/
-│   ├── crazy-8s.svg
-│   ├── solution-sketch.svg
-│   └── README.md
-├── presentation/
-│   └── final-pitch-deck.md
-├── prototype/
-│   ├── inspectready-prototype.svg
-│   └── README.md
-└── research/
-    ├── competitive-landscape.md
-    ├── market-sizing.md
-    ├── market-validation.svg
-    └── problem-validation.md
-```
+- **docs/** — case study, metadata, and project process
+- **research/** — validation, competitors, and market sizing
+- **ideation/** — Crazy 8's and solution sketches
+- **prototype/** — product concept assets
+- **presentation/** — final pitch materials
 
-## Context
+## Program Context
 
-**Role:** Student Consultant  
 **Program:** The Build Fellowship by Open Avenues Foundation  
 **Build Project:** *Risk & Return: Turning Data Into Business Decisions*  
 **Project:** InspectReady
